@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="Theme.ProyekAkhir" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorGray</item>
+        <item name="colorPrimaryVariant">@color/colorDarkGray</item>
+        <item name="colorOnPrimary">@color/colorLightGray</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorDarkGray</item>
+    </style>
+
+    <style name="Theme.ProyekAkhir.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ProyekAkhir.TabLayout">
+        <item name="android:fontFamily">@font/muli</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="Theme.ProyekAkhir.Switch">
+        <item name="colorSurface">@color/colorLightGray</item>
+        <item name="colorSecondary">@color/colorGray</item>
+    </style>
+
+</resources>

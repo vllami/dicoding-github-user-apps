@@ -1,0 +1,7 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">
+        <xliff:g id="github_find">GitHub Find: Favorite</xliff:g>
+    </string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="favorite_list">Favorite List</string>
+</resources>

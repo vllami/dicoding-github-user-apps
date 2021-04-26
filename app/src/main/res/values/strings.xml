@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">
+        <xliff:g id="github_find">GitHub Find</xliff:g>
+    </string>
+
+    <string name="find_your_connection">Find your connection</string>
+
+    <string name="logo_github">GitHub Logo</string>
+    <string name="favorite_logo">Favorite Logo</string>
+    <string name="settings_logo">Settings Logo</string>
+    <string name="search_user">Search user</string>
+    <string name="set_reminder">Set a Reminder at 9 a.m.</string>
+    <string name="change_language">Change to Indonesian</string>
+    <string name="reminder_on">Reminders are turned on</string>
+    <string name="see">See</string>
+    <string name="reminder_off">Reminders are turned off</string>
+    <string name="add_favorite">Added to Favorites</string>
+    <string name="remove_favorite">Removed from Favorites</string>
+    <string name="null_data">-</string>
+
+    <string name="profile">Profile</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+
+    <string name="icon_location">Location icon</string>
+    <string name="icon_company">Company icon</string>
+    <string name="icon_arrow_back">Arrow Back icon</string>
+    <string name="icon_arrow_in">Arrow In icon</string>
+    <string name="icon_reminder">Reminder icon</string>
+
+    <string name="repository">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="please_use_the">Please use the</string>
+    <string name="search_field">search field</string>
+    <string name="to_find_the_github_user_you_want">to find the GitHub users</string>
+    <string name="notif_title">Hello!</string>
+    <string name="notif_message">Don\'t forget to keep looking for Great Developers</string>
+</resources>

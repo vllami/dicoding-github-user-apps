@@ -1,0 +1,3 @@
+include ':consumerappfavoriteusers'
+include ':app'
+rootProject.name = "Proyek Akhir"

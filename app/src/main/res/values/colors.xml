@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDarkGray">#24292E</color>
+    <color name="colorDarkGrayTransparent">#8024292E</color>
+    <color name="colorGray">#676565</color>
+    <color name="colorGrayTransparent">#32676565</color>
+    <color name="colorLightGray">#EFEFEF</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

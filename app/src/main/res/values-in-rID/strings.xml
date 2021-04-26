@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">
+        <xliff:g id="github_find">GitHub Find</xliff:g>
+    </string>
+
+    <string name="find_your_connection">Temukan koneksimu</string>
+
+    <string name="logo_github">Logo GitHub</string>
+    <string name="favorite_logo">Logo Favorit</string>
+    <string name="settings_logo">Logo Pengaturan</string>
+    <string name="search_user">Cari pengguna</string>
+    <string name="set_reminder">Setel Pengingat di jam 9 pagi</string>
+    <string name="change_language">Ubah ke Bahasa Inggris</string>
+    <string name="reminder_on">Pengingat dihidupkan</string>
+    <string name="see">Lihat</string>
+    <string name="reminder_off">Pengingat dimatikan</string>
+    <string name="add_favorite">Ditambahkan ke Favorit</string>
+    <string name="remove_favorite">Dihapus dari Favorit</string>
+    <string name="null_data">-</string>
+
+    <string name="profile">Profil</string>
+    <string name="image_profile">Profil Gambar</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="icon_location">Ikon lokasi</string>
+    <string name="icon_company">Ikon perusahaan</string>
+    <string name="icon_arrow_back">Ikon panah kembali</string>
+    <string name="icon_arrow_in">Ikon panah masuk</string>
+    <string name="icon_reminder">Ikon pengingat</string>
+
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="please_use_the">Silahkan gunakan</string>
+    <string name="search_field">kolom pencarian</string>
+    <string name="to_find_the_github_user_you_want">untuk menemukan pengguna GitHub</string>
+    <string name="notif_title">Halo!</string>
+    <string name="notif_message">Jangan lupa untuk terus mencari Pengembang yang Hebat</string>
+</resources>
