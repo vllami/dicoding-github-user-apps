@@ -16,7 +16,7 @@ import me.everything.android.ui.overscroll.OverScrollDecoratorHelper
 class UserFollowingFragment : Fragment(R.layout.fragment_user_following) {
 
     private var _binding: FragmentUserFollowingBinding? = null
-    private val binding get() = _binding!!
+    private val binding get() = _binding as FragmentUserFollowingBinding
 
     private lateinit var userFollowingAdapter: UserFollowingAdapter
     private lateinit var userFollowingViewModel: UserFollowingViewModel
