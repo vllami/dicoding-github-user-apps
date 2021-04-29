@@ -16,4 +16,4 @@ https://api.github.com/
 - OverScroll Decor
 
 # UI Screenshot
-<img src="https://user-images.githubusercontent.com/39628606/116575088-8768ff00-a938-11eb-9c2a-35d84d32ee8c.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/39628606/116575088-8768ff00-a938-11eb-9c2a-35d84d32ee8c.jpg" width="300">
