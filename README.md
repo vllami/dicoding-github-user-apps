@@ -1,4 +1,5 @@
-# github-find-apps
+# GitHub User Apps
+Features:
 - RecyclerView
 - Glide
 - MVVM
