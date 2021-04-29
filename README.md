@@ -1,2 +1,2 @@
 # github-find-apps
-Dicoding - Belajar Fundamental Aplikasi Android
+[Dicoding] Proyek Akhir - Belajar Fundamental Aplikasi Android
