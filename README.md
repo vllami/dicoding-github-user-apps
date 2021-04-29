@@ -1,3 +1,6 @@
+# API
+https://api.github.com/
+
 # Features
 - RecyclerView
 - Glide
@@ -5,9 +8,6 @@
 - Room
 - Retrofit
 - Consumer App
-
-# API
-https://api.github.com/
 
 # UI Library
 - CircleImageView
