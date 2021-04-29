@@ -1,10 +1,16 @@
-# GitHub User Apps
-Features:
+# Features
 - RecyclerView
 - Glide
 - MVVM
+- Room
 - Retrofit
 - Consumer App
 
-# Library
-API: https://api.github.com/
+# API
+https://api.github.com/
+
+# UI Library
+- CircleImageView
+- SpinKit
+- KeyboardVisibilityEvent
+- OverScroll Decor
