@@ -7,7 +7,7 @@ https://api.github.com/
 - MVVM
 - Room
 - Retrofit
-- Consumer App
+- Consumer App (Favorite User)
 
 # UI Library
 - CircleImageView
