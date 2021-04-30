@@ -3,6 +3,7 @@ https://api.github.com/
 
 # Features
 - RecyclerView
+- ViewBinding
 - Glide
 - MVVM
 - Room
